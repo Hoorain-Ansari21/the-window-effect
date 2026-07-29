@@ -16,9 +16,9 @@ This is the same physics as a camera zoom. A narrow angle of view frames less of
 
 ## The model
 
-![Model of the Window Effect](images/model.jpg)
+![Model of the Window Effect](images/model.jpeg)
 
-![Close-up of the window and the object inside it](images/window-closeup.jpg)
+![Close-up of the window and the object inside it](images/window-closeup.jpeg)
 
 ## What I measured
 
@@ -36,7 +36,7 @@ Closer to the window, the angle of view is wide and a large slice of the object 
 
 I did not stop at the readings. I calculated the same angles and widths from geometry (trigonometry and the Pythagoras theorem), and the calculated values matched the measured ones almost exactly. That match is the part I am most proud of.
 
-![Angle of view against distance](images/graph.jpg)
+![Angle of view against distance](images/graph.jpeg)
 
 The graph shows that as distance from the window increases, the angle of view decreases. The two are inversely related.
 
